@@ -1,6 +1,5 @@
-import './App.css';
-import PokeFetch from './Components/PokeFetch/PokeFetch';
-
+import "./App.css";
+import PokeFetch from "./Components/PokeFetch/PokeFetch";
 
 function App() {
   return (

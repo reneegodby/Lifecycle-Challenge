@@ -30,11 +30,20 @@
 
 .pokeImg {
   width: 500px;
+  filter:brightness(0%);
 }
 
 .pokeName {
   font-family: 'Press Start 2P', cursive;
   text-transform: uppercase;
   margin-top: -50px;
+}
+
+.pokemonName {
+display: none;
+}
+
+.pokePic{
+width: 500px;
 }
 
